@@ -3,7 +3,7 @@
 Data accompanying the RNA secondary structure determination of the murine norovirus (MNV) genome (for Hann et al., Cell 2026), including
 
 - Gene-specific RT-PCR Primers
-- MNV Sequences
+- MNV Sequence
 - MNV SHAPE-MaP Data
 - MNV fbDMS-MaP Data
 - MNV Secondary Structure
