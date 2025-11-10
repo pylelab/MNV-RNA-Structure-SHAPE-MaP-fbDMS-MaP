@@ -7,3 +7,4 @@ Data accompanying the RNA secondary structure determination of the murine norovi
 - MNV SHAPE-MaP Data
 - MNV fbDMS-MaP Data
 - MNV Secondary Structure
+- MNV Mutant Plasmid Sequences
