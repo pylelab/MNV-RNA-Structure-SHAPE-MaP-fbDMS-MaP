@@ -1,1 +1,1 @@
-MNV mutant plasmid sequences used in this study
+MNV mutant plasmid sequences used for functional validation in cell culture and animal infection models
